@@ -1,3 +1,11 @@
-# SEG3125LABS-1
+# SEG3125 Lab 2
 
-This is the cloned repository of an archived version of Lab 2 for hosting purposes. It is meant to be compared with Lab 3. For our most reccent Lab repository, refer to here: https://github.com/edam016/SEG3125LABS
+<b>Group 19 members:</b>
+
+300012511 - Eric Dam
+
+300081295 - Alexander Su
+
+300114058 - Kenneth Chen
+
+300063843 - Symoom Saad
